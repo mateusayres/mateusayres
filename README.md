@@ -1,7 +1,7 @@
-## Olá! Eu sou Mateus Ayres 👋
+## Hello! I'm Mateus Ayres 👋 || Olá! Eu sou Mateus Ayres 👋
 
-- 🔭 Hoje estou trabalhando com Kotlin para Android
-- 🌱 Estou estudando React e React Native
+- 🔭 Today I'm working with Kotlin for Android || Hoje estou trabalhando com Kotlin para Android
+- 🌱 I'm studying React and React Native || Estou estudando React e React Native
   
 <div style="display: inline_block"><br>
   <img align="center" alt="mateusayres-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
