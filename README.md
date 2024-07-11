@@ -23,4 +23,4 @@
   <a href = "mailto:mateusayres@hotmail.com"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoftoutlook&logoColor=fff&style=for-the-badge" target="_blank"></a>
 </div>
 
-![mateusayres's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusayres&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+![mateusayres's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusayres&theme=transparent&show_icons=true&hide_border=true&layout=compact)
