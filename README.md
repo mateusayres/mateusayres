@@ -16,12 +16,11 @@
 </div>
   
   ##
+
+![mateusayres's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusayres&theme=gotham&show_icons=true&hide_border=true&layout=compact)
   
 <div> 
   <a href="https://www.linkedin.com/in/mateus-ayres-a05b58106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/mateusayress?igsh=NWpsNWhjemR0ZWc1&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mateusayres@hotmail.com"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoftoutlook&logoColor=fff&style=for-the-badge" target="_blank"></a>
 </div>
-
-![mateusayres's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusayres&theme=gotham&show_icons=true&hide_border=true&layout=compact)
-
